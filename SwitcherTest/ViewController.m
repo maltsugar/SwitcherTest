@@ -23,7 +23,6 @@
     
     [_customSwitcher setTitles:@[@"9人桌", @"6人桌", @"3人桌"]];
     _customSwitcher.indicatorColor = [UIColor grayColor];
-//    UIColorFromHex(0xee8a07);
 }
 
 
